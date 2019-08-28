@@ -17,9 +17,14 @@ export class AppComponent {
       icon: 'home'
     },
     {
-      title: 'List',
-      url: '/list',
-      icon: 'list'
+      title: 'Instalação',
+      url: '/instalacao',
+      icon: 'logo-tux'
+    },
+    {
+      title: 'Layout',
+      url: '/layout',
+      icon: 'document'
     }
   ];
 
